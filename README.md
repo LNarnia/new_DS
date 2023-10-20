@@ -4,7 +4,7 @@ from the [Scill Factory data science course](https://skillfactory.ru/data-scienc
 
 ## Проекты
 
-* [Проект 0. Играй: Угадай число](https://github.com/LNarnia/new_DS/blob/main/game.py)
+* [Проект 0. Играй: Угадай число](https://github.com/LNarnia/new_DS/tree/main/project_0/)
 * [Проект 1. ___](__)
 * [Проект 2. ___](__)
 
