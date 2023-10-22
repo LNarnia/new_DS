@@ -33,7 +33,6 @@
 :arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/project_1/README.md#Оглавление)
 
 ***Краткая информация о данных***
-...
 
 :arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/project_1/README.md#Оглавление)
 
@@ -44,11 +43,11 @@
 :arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/project_1/README.md#Оглавление)
 
 ***Результат***
+
 Программа угадывает число в среднем за 6 попыток
 
 :arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/project_1/README.md#Оглавление)
 
 ***Выводы***
-...
 
 :arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/project_1/README.md#Оглавление)
