@@ -2,17 +2,17 @@
 
 ## Оглавление
 
-[1. Описание проекта](__)
-[2. Какой кейс решаем?](__)
-[3. Краткая информация о данных](__)
-[4. Этапы работы над проектом](__)
-[5. Результат](__)
-[6. Выводы]()
+[1. Описание проекта](https://github.com/LNarnia/new_DS/tree/main/project_1/README.md#Описание проекта)
+[2. Какой кейс решаем?](https://github.com/LNarnia/new_DS/tree/main/project_1/README.md#Какой кейс решаем?)
+[3. Краткая информация о данных](https://github.com/LNarnia/new_DS/tree/main/project_1/README.md#Краткая информация о данных)
+[4. Этапы работы над проектом](https://github.com/LNarnia/new_DS/tree/main/project_1/README.md#Этапы работы над проектом)
+[5. Результат](https://github.com/LNarnia/new_DS/tree/main/project_1/README.md#Результат)
+[6. Выводы](https://github.com/LNarnia/new_DS/tree/main/project_1/README.md#Выводы)
 
 ### Описание проекта
 Угадать загаданное компьютером число меньше, чем за 20 попыток
 
-:arrow_up: [к оглавлению](__)
+:arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/project_1/README.md#Оглавление)
 
 ### Какой кейс решаем?
 Нужно написать программу, которая угадает загаданное число меньше, чем за 20 попыток.
@@ -30,25 +30,25 @@
 Учимся работать с IDE
 Учимся рабоать с GitHub
 
-:arrow_up: [к оглавлению](__)
+:arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/project_1/README.md#Оглавление)
 
 ***Краткая информация о данных***
 ...
 
-:arrow_up: [к оглавлению](__)
+:arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/project_1/README.md#Оглавление)
 
 ***Этапы работы над проектом***
 - Программа, которая угадывает число за минимальное колчиество попыток.
 - Программа, которая считает среднее количество попыток на 1000 подходов.
 
-:arrow_up: [к оглавлению](__)
+:arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/project_1/README.md#Оглавление)
 
 ***Результат***
 Программа угадывает число в среднем за 6 попыток
 
-:arrow_up: [к оглавлению](__)
+:arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/project_1/README.md#Оглавление)
 
 ***Выводы***
 ...
 
-:arrow_up: [к оглавлению](__)
+:arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/project_1/README.md#Оглавление)

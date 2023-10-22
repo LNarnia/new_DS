@@ -8,11 +8,14 @@ def game_core_v3(number: int = 1) -> int:
     Returns:
         int: Число попыток
     """
-    # Ваш код начинается здесь
+    # создаем переменную для подсчета количества попыток
     count = 0
     min_num, max_num = 1, 100
+    # предполагаемое число
     guess_num = np.random.randint(1, 101)
-
+    
+    # цикл для угадывания числа
+    # в каждой попытке в два раза уменьшаем количество оставшихся вариантов
     while True:
       count += 1
       if guess_num<number:
@@ -30,18 +33,20 @@ def score_game(game_core_v3) -> int:
     """За какое количество попыток в среднем за 1000 подходов угадывает наш алгоритм
 
     Args:
-        random_predict ([type]): функция угадывания
+        game_core_v3 ([type]): функция угадывания
 
     Returns:
         int: среднее количество попыток
     """
     count_ls = []
     np.random.seed(1)  # фиксируем сид для воспроизводимости
-    random_array = np.random.randint(1, 101, size=(1000))  # загадали список чисел
+    # загадываем список чисел
+    random_array = np.random.randint(1, 101, size=(1000)) 
 
     for number in random_array:
         count_ls.append(game_core_v3(number))
-
+        
+    # находим среднее количество попыток
     score = int(np.mean(count_ls))
     print(f"Ваш алгоритм угадывает число в среднем за: {score} попытки")
     return score
