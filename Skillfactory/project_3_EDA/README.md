@@ -67,7 +67,7 @@
 Произведен предварительный анализ данных, их очистка, создание, преобразование и отбор признаков, создана и обучена модель, произведена оченка ее качества. Созданное решение участвует в соревановании на Kaggle. Наилучший достигнутый результат ...
 
 
-Итоговый ноутбук на GitHub [здесь](https://github.com/LNarnia/new_DS/blob/main/Skillfactory/project2_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9/Project_2_%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
+Итоговый ноутбук на GitHub [здесь](https://github.com/LNarnia/new_DS/blob/main/Skillfactory/project_3_EDA/project-3-booking-ready.ipynb)
 
 Итоговый ноутбук на Kaggle [здесь](https://www.kaggle.com/code/lnarnia/project-3-booking-ready)
 
