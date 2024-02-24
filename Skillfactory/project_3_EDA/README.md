@@ -26,9 +26,9 @@
 
 Файлы для соревнования:
 
-- hotels_train.csv - набор данных для обучения
-- hotels_test.csv - набор данных для оценки качества
-- submission.csv - файл сабмишна в нужном формате
+- hotels_train.csv - набор данных для обучения [здесь](https://www.kaggle.com/competitions/sf-booking/data?select=hotels_train.csv)
+- hotels_test.csv - набор данных для оценки качества [здесь](https://www.kaggle.com/competitions/sf-booking/data?select=hotels_test.csv)
+- submission.csv - файл сабмишна в нужном формате [здесь](https://www.kaggle.com/competitions/sf-booking/data?select=submission.csv)
 
 Признаки:
 - hotel_address — адрес отеля;
