@@ -2,25 +2,25 @@
 
 ## Оглавление
 
-[1. Описание проекта](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project2_анализ_вакансий#Описание-проекта)
+[1. Описание проекта](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_3_EDA#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project2_анализ_вакансий#Какой-кейс-решаем?)
+[2. Какой кейс решаем?](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_3_EDA#Какой-кейс-решаем?)
 
-[3. Краткая информация о данных](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project2_анализ_вакансий#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_3_EDA#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project2_анализ_вакансий#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_3_EDA#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project2_анализ_вакансий#Результат)
+[5. Результат](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_3_EDA#Результат)
 
 ### Описание проекта
 Построение модели, которая предсказывает рейтинг отеля. Поучаствовать в соревновании на Kaggle.
 
-:arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project2_анализ_вакансий#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_3_EDA#Оглавление)
 
 ### Какой кейс решаем?
 Выявить нечестные отели, которые накручивают себе рейтинг. Если предсказания модели сильно отличаются от фактического результата, то, возможно, отель ведёт себя нечестно, и его стоит проверить.
 
-:arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project2_анализ_вакансий#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_3_EDA#Оглавление)
 
 ### Краткая информация о данных
 
@@ -49,7 +49,7 @@
 - lat — географическая широта отеля;
 - lng — географическая долгота отеля.
 
-:arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project2_анализ_вакансий#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_3_EDA#Оглавление)
 
 ### Этапы работы над проектом
 - знакомство с данными;
@@ -60,7 +60,7 @@
 - создание и обучение модели;
 - оценка качества модели.
 
-:arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project2_анализ_вакансий#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_3_EDA#Оглавление)
 
 ### Результат
 
@@ -69,7 +69,7 @@
 
 Итоговый ноутбук на GitHub [здесь](https://github.com/LNarnia/new_DS/blob/main/Skillfactory/project2_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9/Project_2_%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
 
-Итоговый ноутбук на Kaggle [здесь]()
+Итоговый ноутбук на Kaggle [здесь](https://www.kaggle.com/code/lnarnia/project-3-booking-ready)
 
 
-:arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project2_анализ_вакансий#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_3_EDA#Оглавление)
