@@ -159,3 +159,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 dst-3.0_16_1_hh_database
+project_3_EDA/data/hotels_test.csv
+project_3_EDA/data/hotels_train.csv
+project_3_EDA/data/hotels.csv
+project_3_EDA/data/submission.csv
