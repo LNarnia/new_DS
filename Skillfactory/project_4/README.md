@@ -2,15 +2,15 @@
 
 ## Оглавление
 
-[1. Описание проекта](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_3_EDA#Описание-проекта)
+[1. Описание проекта](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_4#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_3_EDA#Какой-кейс-решаем?)
+[2. Какой кейс решаем?](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_4#Какой-кейс-решаем?)
 
-[3. Краткая информация о данных](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_3_EDA#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_4#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_3_EDA#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_4#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_3_EDA#Результат)
+[5. Результат](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_4#Результат)
 
 ### Описание проекта
 Банки хранят огромные объёмы информации о своих клиентах. Эти данные можно использовать для того, чтобы оставаться на связи с клиентами и индивидуально ориентировать их на подходящие именно им продукты или банковские предложения.
@@ -19,14 +19,14 @@
 
 Банкам хотелось бы уметь выбирать среди своих клиентов именно тех, которые с наибольшей вероятностью воспользуются тем или иным предложением, и связываться именно с ними.
 
-:arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_3_EDA#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_4#Оглавление)
 
 ### Какой кейс решаем?
 Бизнес-задача: определить характеристики, по которым можно выявить клиентов, более склонных к открытию депозита в банке, и за счёт этого повысить результативность маркетинговой кампании.
 
 Техническая задача для вас как для специалиста в Data Science: построить модель машинного обучения, которая на основе предложенных характеристик клиента будет предсказывать, воспользуется он предложением об открытии депозита или нет.
 
-:arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_3_EDA#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_4#Оглавление)
 
 ### Краткая информация о данных
 
@@ -55,7 +55,7 @@
 
 И, разумеется, наша целевая переменная deposit, которая определяет, согласится ли клиент открыть депозит в банке.
 
-:arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_3_EDA#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_4#Оглавление)
 
 ### Этапы работы над проектом
 - Первичная обработка данных;
@@ -64,11 +64,11 @@
 - Решение задачи классификации: логистическая регрессия и решающие деревья;
 - Решение задачи классификации: ансамбли моделей и построение прогноза.
 
-:arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_3_EDA#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_4#Оглавление)
 
 ### Результат
 
-Итоговый ноутбук на GitHub [здесь](https://github.com/LNarnia/new_DS/blob/main/Skillfactory/project_3_EDA/project-3-booking-ready.ipynb)
+Итоговый ноутбук на GitHub [здесь](https://github.com/LNarnia/new_DS/blob/main/Skillfactory/project_4/Project_4_ML.ipynb)
 
 
-:arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_3_EDA#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_4#Оглавление)
