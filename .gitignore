@@ -161,5 +161,7 @@ cython_debug/
 dst-3.0_16_1_hh_database
 hotels_test.csv
 hotels_train.csv
-data/hotels.csv
+hotels.csv
 submission.csv
+pipeline_wine.pkl
+pipeline.pkl
