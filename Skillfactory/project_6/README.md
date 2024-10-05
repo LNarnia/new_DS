@@ -70,7 +70,7 @@
  - Monetary Value (денежная ценность) — сколько денег потратил клиент.
 Суть RFM-анализа состоит в том, что мы разделяем всех клиентов на группы в зависимости от того, как давно они сделали последнюю покупку, как часто покупали и насколько большой была сумма их заказов.
 
-Итоговый ноутбук на GitHub [здесь](https://github.com/LNarnia/new_DS/blob/main/Skillfactory/project_6/Project-6._%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
+Итоговый ноутбук на GitHub [здесь](https://github.com/LNarnia/new_DS/blob/main/Skillfactory/project_6/PROJECT-6._%D0%A1%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2_%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0.ipynb)
 
 
 :arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_6#Оглавление)
