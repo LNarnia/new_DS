@@ -45,6 +45,6 @@ https://drive.google.com/file/d/13Y4YxqJwCAWZZxnC0w2svOyf7yhwH4AX/view?usp=shari
 
 Итоговый ноутбук на GitHub (некоторые графики не отображаются) [здесь](https://github.com/LNarnia/new_DS/blob/main/Skillfactory/project_hh/Project-1._%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
 
-Папка с графиками plotly [здесь](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_hh/plotly)
+Папка с графиками plotly [здесь](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_1_hh/plotly)
 
 :arrow_up: [к оглавлению](https://github.com/LNarnia/new_DS/tree/main/Skillfactory/project_hh/README.md#Оглавление)
