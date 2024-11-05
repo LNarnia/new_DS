@@ -170,3 +170,4 @@ osrm_data_train.csv
 Project5_test_data.csv
 Project5_osrm_data_test.csv
 dst-3.0_mathml_14_5_rating.csv
+*venv/
